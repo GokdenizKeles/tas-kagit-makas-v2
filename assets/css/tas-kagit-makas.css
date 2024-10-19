@@ -120,7 +120,7 @@ p, h1, h2, h3, h4, h5, h6 {
   width: 88px;
   margin-inline: auto;
   margin-top: 16px;
-  border: 1px solid rgb(10, 97, 151);
+  border: 0;
   background-color: lightskyblue;
   font-size: 17px;
   color: rgb(14, 78, 78);
